@@ -14,7 +14,7 @@ ul{
     --dark-blue: hsl(223, 47%, 23%);
 }
 body{
-    background-image: url('/images/pattern-background-desktop.svg');
+    background-image: url('images/pattern-background-desktop.svg');
     background-repeat: no-repeat;
     background-size: contain;
     background-color: var(--pale-blue);
@@ -109,7 +109,7 @@ a.cancle-btn:hover{
 
 @media only screen and (max-width: 425px) {
     body{
-        background-image: url('/images/pattern-background-mobile.svg');
+        background-image: url('images/pattern-background-mobile.svg');
         background-repeat: no-repeat;
         background-size: contain;
     }
